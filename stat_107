@@ -2,3 +2,5 @@ cd Desktop
 cd stat107
 git clone <https://github.com/conorn2/stat107/new/main><conorn2>
 cd <conorn2>
+git config user.name "Conor Nield"
+git config user.email "conorn2@illinois.edu"
